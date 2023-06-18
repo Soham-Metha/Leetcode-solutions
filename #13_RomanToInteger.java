@@ -6,6 +6,7 @@ InnerMost For Loop : Checks if the value of the previous numeral(from the outerm
 
 Problems : bad space complexity as too many loops
            requires 4ms , can be reduced down to 3ms
+           returns wrong answer in some testcases such as 49, the correct ans is XLIX not IL,IL is 51
 */
 
 
