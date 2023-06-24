@@ -7,7 +7,7 @@ Ex: during the first loop we add the adjecent values        ( 0 & 1 , 1 & 2 , 2 
     during the third loop we add the values differing by 3  ( 0 & 3 , 1 & 4 , 2 & 5 , ...)
 
 */
-
+ 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] ans = new int[2];
