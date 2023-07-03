@@ -1,0 +1,2 @@
+/* Write your PL/SQL query statement below */
+Select Distinct P1.email from Person P1 Join Person P2 on P1.email = P2.email and P1.id <> P2.id
